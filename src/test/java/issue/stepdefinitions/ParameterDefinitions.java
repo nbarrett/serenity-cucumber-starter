@@ -1,4 +1,4 @@
-package starter.stepdefinitions;
+package issue.stepdefinitions;
 
 import io.cucumber.java.Before;
 import io.cucumber.java.ParameterType;
